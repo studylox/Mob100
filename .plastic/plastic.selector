@@ -1,0 +1,4 @@
+repository "mob100@wigsarehalfprice@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
